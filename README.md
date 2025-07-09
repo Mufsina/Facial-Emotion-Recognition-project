@@ -144,7 +144,7 @@ Detailed proposal describing objectives, methodology, and tools used:
 ## 🖥️ Presentation
 
 Project presentation slide is available at:  
-📁 `presentation_slide.pdf`
+📁 `presentation.pdf`
 
 ---
 
